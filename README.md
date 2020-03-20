@@ -1,3 +1,3 @@
 # hello-world
 Test GitHub
-I like github repo
+I like github repository
